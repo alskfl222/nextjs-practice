@@ -1,0 +1,48 @@
+{
+  "dashboard": {
+    "posts": 5,
+    "likes": 100,
+    "followers": 30,
+    "following": 70
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "News Ariticle 1",
+      "desc": "delectus autem",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "News Ariticle 2",
+      "desc": "quis ut nam facilis et officia qui",
+      "category": "politics"
+    },
+    {
+      "id": 3,
+      "title": "News Ariticle 3",
+      "desc": "fugiat veniam minus",
+      "category": "sports"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "events Ariticle 1",
+      "desc": "delectus autem",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "events Ariticle 2",
+      "desc": "quis ut nam facilis et officia qui",
+      "category": "politics"
+    },
+    {
+      "id": 3,
+      "title": "events Ariticle 3",
+      "desc": "fugiat veniam minus",
+      "category": "sports"
+    }
+  ]
+}

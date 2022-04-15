@@ -7,13 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "serve-json": "json-server --watch todos.json --port 4000"
+    "serve-json": "json-server --watch db.json --port 4000"
   },
   "dependencies": {
     "json-server": "^0.17.0",
     "next": "12.1.5",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "swr": "^1.3.0"
   },
   "devDependencies": {
     "eslint": "8.13.0",
